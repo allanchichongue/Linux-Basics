@@ -5,8 +5,6 @@ Bourne Shell program that uses the bubble sort algorithm to sort numbers given b
 <br>
 
 ## How to use?
-
-<br>
 Clone the repository to your local machine
 
 ```
