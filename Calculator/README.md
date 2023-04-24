@@ -5,8 +5,6 @@ This is a simple calculator implemented in Shell script that can perform additio
 <br>
 
 ## How to use?
-
-<br>
 Clone the repository to your local machine
 
 ```
