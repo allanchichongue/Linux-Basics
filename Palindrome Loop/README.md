@@ -1,4 +1,4 @@
-# Palindrome Program
+# Palindrome Loop Program
 
 Bourne Shell program that does the following:
 
