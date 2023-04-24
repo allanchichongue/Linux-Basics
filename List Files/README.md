@@ -5,8 +5,6 @@ Bourne Shell program that prints the filenames and file sizes separated by comma
 <br>
 
 ## How to use?
-
-<br>
 Clone the repository to your local machine
 
 ```
