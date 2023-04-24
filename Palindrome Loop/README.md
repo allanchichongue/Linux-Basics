@@ -8,6 +8,7 @@ Bourne Shell program that does the following:
 4. Continues to prompt the user for input until they enter a palindrome like "madam" or "racecar"
 <br>
 <br>
+
 ## How to use?
 Clone the repository to your local machine
 
