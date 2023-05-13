@@ -1,6 +1,6 @@
 # Linux Basics
 
-Exercise programs for the Metropolia UAS Linux-Basics Course.
+Exercise programs for the Metropolia UAS Linux-Basics Course
 
 ### Summary of the course
 
