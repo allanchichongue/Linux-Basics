@@ -12,6 +12,3 @@ Exercise programs for the Metropolia UAS Linux-Basics Course
 - Learning about text editors and creating shell scripts
 - Navigating the Graphical User Interface (GUI) on Linux
 
-## License
-
-Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
